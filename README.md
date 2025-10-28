@@ -1,4 +1,4 @@
-# Heart Disease Voting Ensemble
+# Voting Ensemble for Heart Disease Prediction
 
 A simple machine learning project that predicts heart disease using a **Voting Ensemble** of multiple classifiers on the **UCI Heart Disease dataset**.
 
